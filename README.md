@@ -11,7 +11,7 @@
 
  - *Sou estudante de Engenharia de Software na Unicesumar* 
 
- - *Estagiaria front-end*
+ - *Estagiária front-end*
  
  - *Apaixonada por Desenvolvimento Web, em especial por Front End* 
 
