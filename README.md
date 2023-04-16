@@ -7,13 +7,13 @@
 
 ## 💡 Sobre mim :
 
- - *Me chamo Dayane Aguiar* 
+ - *Me chamo Dayane Aguiar*; 
 
- - *Sou estudante de Engenharia de Software na Unicesumar* 
+ - *Sou estudante de Engenharia de Software na Unicesumar*;
 
- - *Estagiária front-end*
+ - *Estagiária front-end*;
  
- - *Apaixonada por Desenvolvimento Web, em especial por Front End* 
+ - *Apaixonada por Desenvolvimento Web, em especial por Front End*. 
 
 
 ## 🔮 Minha Stack
